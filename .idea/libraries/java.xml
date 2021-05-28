@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar:///usr/share/java/javafx-sdk-16/lib/javafx.base.jar!/" />
+      <root url="jar:///usr/share/java/javafx-sdk-16/lib/javafx.controls.jar!/" />
+      <root url="jar:///usr/share/java/javafx-sdk-16/lib/javafx.graphics.jar!/" />
+      <root url="file:///usr/share/java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/share/java" recursive="false" />
+  </library>
+</component>

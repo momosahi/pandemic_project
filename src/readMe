@@ -1,0 +1,21 @@
+Pandemic project.
+
+réalisé par Sahi Gonsangbeu et Marwane Radoua
+
+
+Pour exécuter cette application, il faut :
+    Si vous utilisez un IDE :
+        - Dézipper l'archive
+        - créer un dossier nommé pandemic et y déplacer tous les fichiers de l'archive
+        - exécuter le Main
+
+    Si vous n'avez pas d'IDE :
+        - Dézipper l'archive
+        - créer un dossier nommé pandemic et y déplacer tous les fichiers de l'archive
+        - Se placer dans ce fichier et compiler avec la commande : javac Main.java, puis exécuter avec : java Main
+
+
+NB 1 : Quand j'exécute le programme, il y a une nullPointerException qui est levée et je n'ai pas réussi à la corriger.
+NB 2 : Je me suis beaucoup inspiré d'un des codes que j'ai eu à évaluer pendant le code review
+NB 3 : J'ai supposé qu'aucun vaccin n'avait été trouvé pour la maladie dans notre simulation et qu'on pouvait en guérir
+       après INFECTION_DURATION.
