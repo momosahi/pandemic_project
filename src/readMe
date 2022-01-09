@@ -12,7 +12,7 @@ Pour exécuter cette application, il faut :
     Si vous n'avez pas d'IDE :
         - Dézipper l'archive
         - créer un dossier nommé pandemic et y déplacer tous les fichiers de l'archive
-        - Se placer dans ce fichier et compiler avec la commande : javac Main.java, puis exécuter avec : java Main
+        - Se placer dans ce dossier et compiler avec la commande : javac Main.java, puis exécuter avec : java Main
 
 
 NB 1 : Quand j'exécute le programme, il y a une nullPointerException qui est levée et je n'ai pas réussi à la corriger.
